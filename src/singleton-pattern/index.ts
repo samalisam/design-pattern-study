@@ -1,4 +1,4 @@
-import { Logger } from './models/logger';
+import { Logger } from './Logger';
 
 const logger1 = Logger.GET_INSTANCE();
 logger1.write('log message');
