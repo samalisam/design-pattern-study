@@ -1,0 +1,1 @@
+import './strategy-pattern/index';

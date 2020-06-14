@@ -1,0 +1,24 @@
+{
+  "name": "design-pattern-study",
+  "version": "1.0.0",
+  "description": "Design pattern playground. Built with Node.js and TypeScript.",
+  "main": "dist/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc && node dist/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samalisam/design-pattern-study.git"
+  },
+  "author": "Sam Wymann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samalisam/design-pattern-study/issues"
+  },
+  "homepage": "https://github.com/samalisam/design-pattern-study#readme",
+  "devDependencies": {
+    "tslint": "^6.1.2",
+    "typescript": "^3.9.5"
+  }
+}
